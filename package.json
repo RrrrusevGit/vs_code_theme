@@ -1,0 +1,61 @@
+{
+  "name": "silvi-midnight",
+  "displayName": "Silvi Midnight Theme",
+  "description": "A calm, low-noise dark theme designed for deep focus and long coding sessions across multiple languages.",
+  "version": "0.1.0",
+  "publisher": "silviya-ruzhina",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/RrrrusevGit/vs_code_theme.git"
+  },
+  "files": [
+    "assets",
+    "themes",
+    "LICENSE",
+    "README.md",
+    "PUBLISHING.md"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "midnight",
+    "calm",
+    "focus",
+    "low-noise",
+    "developer",
+    "programming",
+
+    "vscode",
+    "cursor",
+
+    "python",
+    "jupyter",
+    "cpp",
+    "c++",
+
+    "javascript",
+    "typescript",
+    "nodejs",
+    "react",
+
+    "php",
+    "backend"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silvi Midnight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/silvi-midnight.json"
+      }
+    ]
+  }
+}
