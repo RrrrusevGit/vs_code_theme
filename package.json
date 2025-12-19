@@ -2,7 +2,7 @@
   "name": "silvi-midnight",
   "displayName": "Silvi Midnight Theme",
   "description": "A calm, low-noise dark theme designed for deep focus and long coding sessions across multiple languages.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "silviya-ruzhina",
   "license": "MIT",
   "icon": "assets/icon.png",
@@ -14,8 +14,7 @@
     "assets",
     "themes",
     "LICENSE",
-    "README.md",
-    "PUBLISHING.md"
+    "README.md"
   ],
   "engines": {
     "vscode": "^1.85.0"
