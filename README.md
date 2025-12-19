@@ -7,7 +7,7 @@ The goal is clarity without noise — a quiet *midnight* atmosphere that stays o
 
 ---
 
-## 👀 Preview
+## Preview
 
 ### 🐍 Python
 ![Silvi Midnight – Python](assets/screenshot-py.png)
